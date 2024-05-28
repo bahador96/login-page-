@@ -82,7 +82,7 @@ body {
   text-align: center;
   background-color: #a02323;
   box-shadow: 3px 3px 8px #b1b1b1, -3px -3px 8px #fff;
-  transition: 0.5s;
+  transition: all 0.5s ease-in;
 }
 
 .login-button:hover {
